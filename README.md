@@ -23,7 +23,9 @@ My main guide throughout this journey has been the <strong>JavaScript Full Cours
 
 <p align="center">
 <a href="https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW">
-  <img src="https://i.ytimg.com/vi/lkIFF4maKMU/hqdefault.jpg" alt="JavaScript Course Thumbnail" width="500px">
+  <img src="https://i.ytimg.com/vi/ajdRvxDWH4w/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDHZkl1toTFHBY8cD7PLeg9Jxd5oA"
+       alt="JavaScript Course Thumbnail"
+       width="500px">
 </a>
 </p>
 
@@ -41,7 +43,7 @@ This series took me step-by-step through the fundamentals and beyond, helping me
 
 <ul>
   <li>📂 Code snippets / practice files organized by topic</li>
-  <li>💡 Mini-projects that reinforced what I learned</li>
+  <li>💡 Mini projects that reinforced what I learned</li>
   <li>🧩 Notes, experiments, and debugging attempts</li>
   <li>📈 A clear path from <strong>basics → intermediate JS</strong></li>
 </ul>

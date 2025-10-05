@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DOM Example</title>
+  <style>
+    #box {
+      width: 200px;
+      height: 100px;
+      background-color: lightblue;
+      text-align: center;
+      line-height: 100px;
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="box">Hello DOM!</div>
+  <button onclick="changeText()">Change Text</button>
+  <button onclick="changeColor()">Change Color</button>
+ 
+  <script>// dom manipulation example
+    // This script demonstrates basic DOM manipulation by changing text and background color of an element.
+    // Accessing element
+    let box = document.getElementById("box");
+
+    // Function to change text
+    function changeText() {
+      box.innerText = "Text Changed!";
+    }
+
+    // Function to change background color
+    function changeColor() {
+      box.style.backgroundColor = "lightgreen";
+    }
+  </script>
+//
+</body>
+</html>

@@ -12,7 +12,7 @@ Here, you’ll find my practice files, mini-projects, experiments, and notes —
 My main guide throughout this journey has been the JavaScript Full Course (2024-25) – Beginners to Pro playlist on YouTube.
 🎥 Check it out here: JavaScript Full Course Playlist
  
-YouTube
+YouTube   https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW
 
 This series took me step-by-step through the fundamentals and beyond, helping me build strong foundations in JavaScript.
 

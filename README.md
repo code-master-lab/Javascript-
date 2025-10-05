@@ -1,4 +1,4 @@
-🚀 My JavaScript Journey
+<h1>🚀 My JavaScript Journey</h1>
 
 Welcome to my JavaScript Learning Repository!
 This repo is my journal — capturing how I started, what I learned, and how far I’ve come in mastering JavaScript.
